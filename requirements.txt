@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+toon-format
+tiktoken
+pydantic
+python-multipart
